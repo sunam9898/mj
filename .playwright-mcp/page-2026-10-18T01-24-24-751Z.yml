@@ -1,0 +1,76 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Weekend English Club 홈" [ref=e4] [cursor=pointer]:
+      - /url: "#home"
+      - img [ref=e6]
+      - generic [ref=e12]: weekendclub
+    - generic [ref=e13]:
+      - generic [ref=e14]: 6학년 · 9단원
+      - button "소리 켜기" [ref=e16] [cursor=pointer]:
+        - generic [ref=e17]: ))
+      - button "학습 기록 보기" [ref=e18] [cursor=pointer]: S
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e23]: ✦ YOUR ENGLISH ADVENTURE
+          - heading "주말 계획, 영어로 말해볼까?" [level=1] [ref=e24]:
+            - text: 주말 계획,
+            - text: 영어로 말해볼까?
+          - paragraph [ref=e25]:
+            - text: 말하고, 듣고, 게임하며 배우는
+            - text: 나만의 영어 표현!
+          - generic [ref=e26]:
+            - generic [ref=e27]: TODAY'S EXPRESSION
+            - paragraph [ref=e28]: “What are you going to do this weekend?”
+            - text: 이번 주말에 뭐 할 거예요?
+            - button "핵심 질문 듣기" [ref=e29] [cursor=pointer]: ▶
+          - generic [ref=e30]:
+            - generic [ref=e31]: Aa
+            - generic [ref=e32]: 배울 표현 5개
+            - generic [ref=e34]: ◷
+            - generic [ref=e35]: 약 20분
+        - img "주말 소풍을 기다리는 강아지 그림" [ref=e36]:
+          - generic [ref=e40]: ✳
+          - generic [ref=e41]: ♡
+          - img [ref=e43]
+          - generic [ref=e57]: I can't wait!
+          - generic [ref=e59]: Meet your weekend buddy, Bobo!
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - text: READY, SET, SPEAK!
+          - heading "오늘의 학습 코스" [level=2] [ref=e63]
+        - generic [ref=e64]: 0 / 5 완료
+      - navigation "학습 단계" [ref=e66]:
+        - button "01 말하기 연습 듣고 따라 말해요 ↗" [ref=e67] [cursor=pointer]:
+          - generic [ref=e68]: "01"
+          - img [ref=e70]
+          - generic [ref=e72]: 말하기 연습
+          - generic [ref=e73]: 듣고 따라 말해요
+          - generic [ref=e74]: ↗
+        - button "02 대화글 만들기 나만의 대화를 완성해요 ↗" [ref=e75] [cursor=pointer]:
+          - generic [ref=e76]: "02"
+          - img [ref=e78]
+          - generic [ref=e82]: 대화글 만들기
+          - generic [ref=e83]: 나만의 대화를 완성해요
+          - generic [ref=e84]: ↗
+        - button "03 AI 말하기 대결 AI 친구와 실력을 겨뤄요 ↗" [ref=e85] [cursor=pointer]:
+          - generic [ref=e86]: "03"
+          - img [ref=e88]
+          - generic [ref=e91]: AI 말하기 대결
+          - generic [ref=e92]: AI 친구와 실력을 겨뤄요
+          - generic [ref=e93]: ↗
+        - button "04 AI 평가하기 내 문장을 똑똑하게 다듬어요 ↗" [ref=e94] [cursor=pointer]:
+          - generic [ref=e95]: "04"
+          - img [ref=e97]
+          - generic [ref=e100]: AI 평가하기
+          - generic [ref=e101]: 내 문장을 똑똑하게 다듬어요
+          - generic [ref=e102]: ↗
+        - button "05 복습게임 게임으로 신나게 복습해요 ↗" [ref=e103] [cursor=pointer]:
+          - generic [ref=e104]: "05"
+          - img [ref=e106]
+          - generic [ref=e110]: 복습게임
+          - generic [ref=e111]: 게임으로 신나게 복습해요
+          - generic [ref=e112]: ↗
+      - generic [ref=e114]: 작은 한마디가 큰 실력이 돼요!
+  - status

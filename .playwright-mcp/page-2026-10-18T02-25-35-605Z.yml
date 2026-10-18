@@ -1,0 +1,76 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Malang talk 홈" [ref=e4] [cursor=pointer]:
+      - /url: "#home"
+      - img [ref=e6]
+      - generic [ref=e12]: Malang talk
+    - generic [ref=e13]:
+      - generic [ref=e14]: 6학년 · 9단원
+      - button "소리 끄기" [ref=e16] [cursor=pointer]:
+        - generic [ref=e17]: ))
+      - button "학습 기록 보기" [ref=e18] [cursor=pointer]: S
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - button "← 홈으로" [ref=e22] [cursor=pointer]
+        - generic [ref=e23]:
+          - text: 6학년 · 9단원
+          - strong [ref=e24]: STEP 05 / 복습게임
+      - heading "복습게임" [level=1] [ref=e25]
+      - paragraph [ref=e26]: 배운 표현을 게임 속에서 마음껏 사용해요.
+      - generic [ref=e27]:
+        - button "A ↗ 단어 잡기 떨어지는 단어 중 정답만 잡아요." [ref=e28] [cursor=pointer]:
+          - generic [ref=e29]: A
+          - generic [ref=e30]: ↗
+          - heading "단어 잡기" [level=3] [ref=e31]
+          - paragraph [ref=e32]: 떨어지는 단어 중 정답만 잡아요.
+        - button "B ↗ My Future Life 15가지 선택으로 나의 미래를 만들어요." [ref=e33] [cursor=pointer]:
+          - generic [ref=e34]: B
+          - generic [ref=e35]: ↗
+          - heading "My Future Life" [level=3] [ref=e36]
+          - paragraph [ref=e37]: 15가지 선택으로 나의 미래를 만들어요.
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - heading "Word Muncher · 1 / 5" [level=3] [ref=e41]
+            - paragraph [ref=e42]: 정답 단어를 찾아 아래의 꼬마 몬스터에게 먹여주세요.
+          - generic [ref=e43]: 잡은 단어 0
+        - generic [ref=e44]:
+          - generic [ref=e45]: WORD 1
+          - generic [ref=e46]:
+            - generic [ref=e47]: ●
+            - generic [ref=e48]: ●
+            - generic [ref=e49]: ●
+          - generic [ref=e50]: ← → 키 또는 버튼으로 이동
+        - generic [ref=e51]:
+          - text: I'm going to _____ the dog.
+          - generic [ref=e52]: 올바른 동사원형을 잡아 문장을 완성해요.
+        - generic "단어를 잡는 게임 공간" [ref=e53]:
+          - generic "단어를 먹는 캐릭터":
+            - img
+            - generic: MUNCH
+          - generic [ref=e56]:
+            - generic [ref=e57]: 세 단어가 곧 떨어져요!
+            - button "게임 시작" [active] [ref=e58] [cursor=pointer]
+        - generic [ref=e59]:
+          - button "왼쪽으로 이동" [ref=e60] [cursor=pointer]: ←
+          - generic [ref=e61]: 이동해서 정답만 잡아요!
+          - button "오른쪽으로 이동" [ref=e62] [cursor=pointer]: →
+        - generic [ref=e63]: 틀린 단어를 먹거나 정답을 놓치면 목숨이 줄어요.
+      - navigation "단계 이동" [ref=e64]:
+        - button "말하기 연습" [ref=e65] [cursor=pointer]:
+          - generic [ref=e66]: ◉
+          - text: 1단계
+        - button "대화글 만들기" [ref=e67] [cursor=pointer]:
+          - generic [ref=e68]: ▤
+          - text: 2단계
+        - button "AI 말하기 대결" [ref=e69] [cursor=pointer]:
+          - generic [ref=e70]: ✦
+          - text: 3단계
+        - button "AI 평가하기" [ref=e71] [cursor=pointer]:
+          - generic [ref=e72]: ✓
+          - text: 4단계
+        - button "복습게임" [ref=e73] [cursor=pointer]:
+          - generic [ref=e74]: ◇
+          - text: 5단계
+  - status
